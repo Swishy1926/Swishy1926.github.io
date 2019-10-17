@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UFO game",
+"productVersion": "1.0",
+"dataUrl": "GitHub Desktop.app.data.unityweb",
+"asmCodeUrl": "GitHub Desktop.app.asm.code.unityweb",
+"asmMemoryUrl": "GitHub Desktop.app.asm.memory.unityweb",
+"asmFrameworkUrl": "GitHub Desktop.app.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
